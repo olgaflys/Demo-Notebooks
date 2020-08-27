@@ -120,7 +120,7 @@
                 - longitude float
             - winery_group NoneType
             - first_wines list  
-                **list**
+                **list**  
                     - id int
                     - name str
                     - seo_name str
